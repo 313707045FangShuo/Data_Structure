@@ -1,0 +1,6 @@
+C:\Users\SHUO  FANG\Desktop\資結\HW3_maze\HW3_maze\x64\Debug\HW3_maze.vcxproj.AssemblyReference.cache
+C:\Users\SHUO  FANG\Desktop\資結\HW3_maze\HW3_maze\x64\Debug\HW3_maze.Form1.resources
+C:\Users\SHUO  FANG\Desktop\資結\HW3_maze\HW3_maze\x64\Debug\HW3_maze.vcxproj.GenerateResource.cache
+C:\Users\es953\OneDrive\Desktop\HW3_maze\HW3_maze\x64\Debug\HW3_maze.vcxproj.AssemblyReference.cache
+C:\Users\es953\OneDrive\Desktop\HW3_maze\HW3_maze\x64\Debug\HW3_maze.Form1.resources
+C:\Users\es953\OneDrive\Desktop\HW3_maze\HW3_maze\x64\Debug\HW3_maze.vcxproj.GenerateResource.cache

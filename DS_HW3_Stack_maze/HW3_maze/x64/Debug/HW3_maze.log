@@ -1,0 +1,9 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\es953\OneDrive\Desktop\HW3_maze\Form1.h(784,27): warning C4101: 'len': 未參考的區域變數
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\es953\OneDrive\Desktop\HW3_maze\Form1.h(784,23): warning C4101: 'p2': 未參考的區域變數
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  HW3_maze.vcxproj -> C:\Users\es953\OneDrive\Desktop\HW3_maze\x64\Debug\HW3_maze.exe
