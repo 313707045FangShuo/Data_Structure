@@ -1,0 +1,6 @@
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW4_infix\HW4_infix\x64\Debug\HW4_infix.vcxproj.AssemblyReference.cache
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW4_infix\HW4_infix\x64\Debug\HW4_infix.Form1.resources
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW4_infix\HW4_infix\x64\Debug\HW4_infix.vcxproj.GenerateResource.cache
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\313707045\HW4_infix\x64\Debug\HW4_infix.vcxproj.AssemblyReference.cache
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\313707045\HW4_infix\x64\Debug\HW4_infix.Form1.resources
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\313707045\HW4_infix\x64\Debug\HW4_infix.vcxproj.GenerateResource.cache
