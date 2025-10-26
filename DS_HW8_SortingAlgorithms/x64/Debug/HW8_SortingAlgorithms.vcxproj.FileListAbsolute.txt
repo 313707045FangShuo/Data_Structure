@@ -1,0 +1,3 @@
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW8_SortingAlgorithms\HW8_SortingAlgorithms\x64\Debug\HW8_SortingAlgorithms.vcxproj.AssemblyReference.cache
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW8_SortingAlgorithms\HW8_SortingAlgorithms\x64\Debug\HW8_SortingAlgorithms.Form1.resources
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW8_SortingAlgorithms\HW8_SortingAlgorithms\x64\Debug\HW8_SortingAlgorithms.vcxproj.GenerateResource.cache
