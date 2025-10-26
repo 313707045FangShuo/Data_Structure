@@ -1,0 +1,3 @@
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW5_LinkedList\HW5_LinkedList\x64\Debug\HW5_LinkedList.vcxproj.AssemblyReference.cache
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW5_LinkedList\HW5_LinkedList\x64\Debug\HW5_LinkedList.Form1.resources
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW5_LinkedList\HW5_LinkedList\x64\Debug\HW5_LinkedList.vcxproj.GenerateResource.cache
