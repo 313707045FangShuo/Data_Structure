@@ -1,0 +1,3 @@
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW6_BinarySearchTree\HW6_BinarySearchTree\x64\Debug\HW6_BinarySearchTree.vcxproj.AssemblyReference.cache
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW6_BinarySearchTree\HW6_BinarySearchTree\x64\Debug\HW6_BinarySearchTree.Form1.resources
+C:\Users\es953\OneDrive\Desktop\1132\Data_Structure\HW6_BinarySearchTree\HW6_BinarySearchTree\x64\Debug\HW6_BinarySearchTree.vcxproj.GenerateResource.cache
