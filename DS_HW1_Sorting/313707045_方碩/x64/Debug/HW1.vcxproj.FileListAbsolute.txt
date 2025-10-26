@@ -1,0 +1,3 @@
+C:\Users\SHUO  FANG\Desktop\資結\HW1\HW1\x64\Debug\HW1.vcxproj.AssemblyReference.cache
+C:\Users\SHUO  FANG\Desktop\資結\HW1\HW1\x64\Debug\HW1.Form1.resources
+C:\Users\SHUO  FANG\Desktop\資結\HW1\HW1\x64\Debug\HW1.vcxproj.GenerateResource.cache
